@@ -1,0 +1,12 @@
+{
+    "name": "mgmadvance/openwebtools",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matheus",
+            "email": "matheusgt4@hotmail.com"
+        }
+    ],
+    "require": {}
+}

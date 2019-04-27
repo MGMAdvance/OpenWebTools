@@ -1,0 +1,17 @@
+{
+  "name": "openwebtools",
+  "homepage": "https://github.com/MGMAdvance/OpenWebTools",
+  "authors": [
+    "Matheus <matheusgt4@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
